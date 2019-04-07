@@ -1,9 +1,7 @@
 package com.ysl.design.pattern.factory.abstractFactory;
 
 /**
- * @author aarony
- * @Created 2019-03-22 17:50
- * @E-mail aarony@synnex.com
+ * client
  */
 public class Client {
     public static void main(String[] args) {

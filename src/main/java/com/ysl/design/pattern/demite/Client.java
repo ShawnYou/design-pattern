@@ -5,7 +5,7 @@ package com.ysl.design.pattern.demite;
  */
 public class Client {
     public static void main(String[] args) {
-        PaperBoy paperBoy = new PaperBoy();
-        paperBoy.charge(1);
+        /*PaperBoy paperBoy = new PaperBoy();
+        paperBoy.charge(1);*/
     }
 }
